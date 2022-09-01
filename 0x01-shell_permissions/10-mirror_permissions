@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=ollek hello
+chmod --reference=olleh hello
